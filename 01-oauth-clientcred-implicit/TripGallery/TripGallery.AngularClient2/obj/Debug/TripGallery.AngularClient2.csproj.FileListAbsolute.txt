@@ -1,0 +1,5 @@
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.AngularClient2\bin\TripGallery.AngularClient2.dll.config
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.AngularClient2\bin\TripGallery.AngularClient2.dll
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.AngularClient2\bin\TripGallery.AngularClient2.pdb
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.AngularClient2\obj\Debug\TripGallery.AngularClient2.dll
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.AngularClient2\obj\Debug\TripGallery.AngularClient2.pdb

@@ -1,0 +1,16 @@
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripCompany.IdentityServer\bin\TripCompany.IdentityServer.dll.config
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripCompany.IdentityServer\bin\TripCompany.IdentityServer.dll
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripCompany.IdentityServer\bin\TripCompany.IdentityServer.pdb
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripCompany.IdentityServer\bin\IdentityServer3.dll
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.dll
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripCompany.IdentityServer\bin\Owin.dll
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripCompany.IdentityServer\bin\TripGallery.Constants.dll
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripCompany.IdentityServer\bin\TripGallery.Constants.pdb
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripCompany.IdentityServer\bin\IdentityServer3.pdb
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripCompany.IdentityServer\bin\IdentityServer3.xml
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.xml
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripCompany.IdentityServer\obj\Debug\TripCompany.IdentityServer.csprojResolveAssemblyReference.cache
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripCompany.IdentityServer\obj\Debug\TripCompany.IdentityServer.dll
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripCompany.IdentityServer\obj\Debug\TripCompany.IdentityServer.pdb
