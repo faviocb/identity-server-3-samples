@@ -1,0 +1,13 @@
+C:\Users\hbk\learn-identity-server\oauth2-openid-connect-angular-aspdotnet_fav\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Constants\bin\Debug\TripGallery.Constants.dll
+C:\Users\hbk\learn-identity-server\oauth2-openid-connect-angular-aspdotnet_fav\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Constants\bin\Debug\TripGallery.Constants.pdb
+C:\Users\hbk\learn-identity-server\oauth2-openid-connect-angular-aspdotnet_fav\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Constants\obj\Debug\TripGallery.Constants.dll
+C:\Users\hbk\learn-identity-server\oauth2-openid-connect-angular-aspdotnet_fav\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Constants\obj\Debug\TripGallery.Constants.pdb
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Constants\bin\Debug\TripGallery.Constants.dll
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Constants\bin\Debug\TripGallery.Constants.pdb
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Constants\obj\Debug\TripGallery.Constants.dll
+C:\Users\hbk\identityserver\2-oauth2-openid-exercise-files\start\TripGallery\TripGallery.Constants\obj\Debug\TripGallery.Constants.pdb
+C:\Users\FChilo\files\projects\TripGallery\TripGallery.Constants\bin\Debug\TripGallery.Constants.dll
+C:\Users\FChilo\files\projects\TripGallery\TripGallery.Constants\bin\Debug\TripGallery.Constants.pdb
+C:\Users\FChilo\files\projects\TripGallery\TripGallery.Constants\obj\Debug\TripGallery.Constants.dll
+C:\Users\FChilo\files\projects\TripGallery\TripGallery.Constants\obj\Debug\TripGallery.Constants.pdb
+C:\Users\FChilo\files\projects\TripGallery\TripGallery.Constants\obj\Debug\TripGallery.Constants.csprojResolveAssemblyReference.cache
